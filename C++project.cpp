@@ -120,7 +120,7 @@ int main()
 
     cout << "Hello there O_O \nEnter Your Details Carefully" << endl;
 
-    cout << "\n\nIf u want to debit abount Enter 'd' else Enter 'w' for withdraw :--";
+    cout << "\n\nIf u want to debit amount Enter 'd' else Enter 'w' for withdraw :--";
     cin >> x;
 
     if (x == 'd')
